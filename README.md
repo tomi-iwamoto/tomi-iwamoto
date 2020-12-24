@@ -3,7 +3,7 @@
 ### Hi I'm Tomomi!  
 
 I'm a frontend developer & web designer in Brooklyn, NY. 
-After a long search to discover my passions, I landed in the field of web development and design. 
+After a long search to discover my passion, I landed in the field of web development and design. 
 I absolutely love all things creative and coding is one of them. I'm a perpetual problem solver and life long learner. 
 Nice to meet you!👋
 
