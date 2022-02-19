@@ -2,12 +2,12 @@
 
 ### Hi I'm Tomomi!  
 
-I'm a frontend developer & web designer in Brooklyn, NY. 
-After a long search to discover my passion, I landed in the field of web development and design. 
-I absolutely love all things creative and coding is one of them. I'm a perpetual problem solver and life long learner. 
+I'm a UI/UX designer based in Brooklyn, NY. 
+After a long search to discover my passion, I landed in the field of UI, visual and web design. 
+I'm a perpetual problem solver and life long learner. 
 Nice to meet you!👋
 
-- 🌱 I’m currently learning ... Javascript
-- 🤔 I’m looking for help with ... Javascript!
+- 🌱 I’m currently learning ... UI principles and business
+- 🤔 What I want to learn next? ... Animation!
 - 📫 How to reach me: ... tomoiwamoto21@gmail.com 
 
