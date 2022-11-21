@@ -1,6 +1,6 @@
 ### Hi I'm Tomomi!👋
 
-After a long search to discover my passion, I landed in the field web, graphic and UI/UX design. 
+After a long search to discover my passion, I landed in the field of web, graphic and UI/UX design. 
 Here you will find some of my frontend work!
 
 
